@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Systems Engineer · Software Developer · Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HrnI9rFvQ6g5a9A1bZ/giphy.gif" alt="chibi banner" width="70%" />
+  <img src="171419.gif" alt="chibi banner" width="70%" />
 </p>
 
 ---

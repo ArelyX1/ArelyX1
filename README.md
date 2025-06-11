@@ -50,17 +50,6 @@
 
 ---
 
-### 🧸 Just for Fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HrnI9rFvQ6g5a9A1bZ/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/kGCuRgmbnOQOQ/giphy.gif" width="200" />
-</p>
-
-> I believe tech can be powerful *and* fun — a good UI should make you smile 😄
-
----
 
 ### 📡 Connect With Me
 

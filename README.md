@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArelyX1&show_icons=true&theme=radical&v=berri" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArelyX1&theme=radica&v=berril" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArelyX1&theme=radical&v=berril" alt="streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyX1&layout=compact&theme=radical&v=berri" />
 </p>

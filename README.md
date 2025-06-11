@@ -45,7 +45,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArelyX1&theme=radical" alt="streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyX1&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyX1&layout=compact&theme=radical&v1" />
 </p>
 
 ---

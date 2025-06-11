@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Systems Engineer · Software Developer · Tech Explorer</h3>
 
 <p align="center">
-  <img src="YOUR_CHIBI_BANNER_IMAGE.png" alt="chibi banner" width="70%" />
+  <img src="https://media.giphy.com/media/HrnI9rFvQ6g5a9A1bZ/giphy.gif" alt="chibi banner" width="70%" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 ### 📡 Connect With Me
 
-- 💼 LinkedIn: [Andry Caceres](www.linkedin.com/in/andry-caceres-439504331)  
+- 💼 LinkedIn: [Andry Caceres](https://www.linkedin.com/in/andry-caceres-439504331)  
 - 🐦 Twitter/X: [@ADY_X1](https://x.com/ADY_X1)  
 - 💌 Email: andry.caceres@estudiante.ucsm.edu.pe
 

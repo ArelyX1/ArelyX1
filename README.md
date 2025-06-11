@@ -41,11 +41,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArelyX1&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArelyX1&theme=radical" alt="streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyX1&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -64,15 +64,14 @@
 
 ### 📡 Connect With Me
 
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourusername)  
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)  
-- 💌 Email: your.email@example.com
+- 💼 LinkedIn: [Andry Caceres](www.linkedin.com/in/andry-caceres-439504331)  
+- 🐦 Twitter/X: [@ADY_X1](https://x.com/ADY_X1)  
+- 💌 Email: andry.caceres@estudiante.ucsm.edu.pe
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=fc6c85&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ArelyX1&label=Profile%20views&color=fc6c85&style=flat" />
 </p>
 
 <p align="center">
